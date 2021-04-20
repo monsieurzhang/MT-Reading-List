@@ -1,5 +1,5 @@
 ﻿# Machine Translation Reading List
-This is a machine translation reading list maintained by the Tsinghua Natural Language Processing Group. 
+This is an machine translation reading list maintained by the Tsinghua Natural Language Processing Group. 
 
 The past three decades have witnessed the rapid development of machine translation, especially for data-driven approaches such as statistical machine translation (SMT) and neural machine translation (NMT). Due to the dominance of NMT at the present time, priority is given to collecting important, up-to-date NMT papers. The list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. Any suggestions are welcome!
 
